@@ -1,0 +1,36 @@
+body{
+    background-image: url(images/images.jpg);
+    background-size: cover;
+}
+
+
+.maindiv{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 205px;
+    height: 280px;
+    margin: 100px auto;
+    padding-left: 3px;
+    background: rgb(54, 41, 128);    
+}
+
+
+.result-screen{
+    width: 192px;
+    height: 45px;
+    margin-top: 10px;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    box-shadow: white 1px 1px 2px;
+}
+
+
+.btn{
+    border-radius: 10px;
+    background: #000;
+    color: white;
+    width: 47px;
+    height: 40px;
+    margin-top: 10px;
+    box-shadow: white 1px 1px 2px; 
+}
